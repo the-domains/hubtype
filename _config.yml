@@ -1,14 +1,14 @@
-layout_spectrum: 0.307766004698351
-typography_spectrum: 0.9892515083774924
+layout_spectrum: 0.6925377114675939
+typography_spectrum: 0.8460096342023462
 color:
-  brandStrength: 0.12791128945536911
-  lightness: 0.2941977148875594
-  saturation: 0.27102736732922494
-  rhythmicContrast: 0.6907492857426405
+  brandStrength: 0.6047934566158801
+  lightness: 0.4541012409608811
+  saturation: 0.3424437646754086
+  rhythmicContrast: 0.27745218202471733
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: hubtype
